@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1730210521028,"sparkVersion":"3.5.3","uid":"VectorAssembler_67fab7b06209","paramMap":{"outputCol":"features","inputCols":["precint_id","offense_code","latitude","longitude","borough_index","premises_index"]},"defaultParamMap":{"outputCol":"VectorAssembler_67fab7b06209__output","handleInvalid":"error"}}

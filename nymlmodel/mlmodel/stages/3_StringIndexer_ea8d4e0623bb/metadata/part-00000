@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1730299781329,"sparkVersion":"3.5.3","uid":"StringIndexer_ea8d4e0623bb","paramMap":{"outputCol":"susp_race_index","inputCol":"susp_race"},"defaultParamMap":{"outputCol":"StringIndexer_ea8d4e0623bb__output","stringOrderType":"frequencyDesc","handleInvalid":"error"}}
